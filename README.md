@@ -8,13 +8,13 @@ I am highly interested in learning cyber security while also giving back to the 
 
 ## How do I continue to learn?
 
-- I play Capture The Flag (CTF) competitions regularly
+- I play <img src="image/flag.jpg"  alt="flag" width="20px" height="20px">Capture The Flag (CTF) competitions regularly
 
-- I play [HackTheBox](https://www.hackthebox.eu/home/users/profile/168660) and TryHackMe 
+- I play <img src="image/hackthebox.jpg"  alt="htb" width="20px" height="20px">[HackTheBox](https://www.hackthebox.eu/home/users/profile/168660) and <img src="image/tryhackme.jpg"  alt="thm" width="20px" height="20px">[TryHackMe](https://tryhackme.com/) 
 
-- I like to read and watch a lot of informational articles/videos regarding cyber security
+- I like to read and watch a lot of informational <img src="image/medium.jpg"  alt="medium" width="20px" height="20px">articles / <img src="image/youtube.png"  alt="yt" width="20px" height="20px">videos regarding cyber security
 
-- I like to experiment and learn interesting things regarding digital forensics
+- I like to experiment and learn interesting things regarding <img src="image/mag.png"  alt="mag" width="20px" height="20px"> digital forensics
 
 ---
 
@@ -32,4 +32,4 @@ I am highly interested in learning cyber security while also giving back to the 
 
 ## Where can I be contacted?
 
-You can [Email Me](mailto:lee.bryanmitchell@gmail.com) or check out my [LinkedIn](https://www.linkedin.com/in/bryan-mitchell-lee-14b0871b0/)
+You can <img src="image/gmail.png"  alt="gmail" width="20px" height="20px">[Email Me](mailto:lee.bryanmitchell@gmail.com) or check out my <img src="image/linkedin.png"  alt="linkedin" width="20px" height="20px">[LinkedIn](https://www.linkedin.com/in/bryan-mitchell-lee-14b0871b0/)
